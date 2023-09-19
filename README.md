@@ -1,2 +1,2 @@
-# ukangan_harian
+# ulangan_harian
 jawaban nomer 2
